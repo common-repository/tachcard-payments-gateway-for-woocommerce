@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="58.3517742%" y1="36.3955311%" x2="90.9867611%" y2="103.006893%" id="linearGradient-1">
+            <stop stop-color="#3BB9EB" offset="0%"></stop>
+            <stop stop-color="#585AE6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Preview" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.600000024" cx="284.444444" cy="284.444444" r="227.555556"></circle>
+            <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.600000024" cx="235.68254" cy="276.31746" r="227.555556"></circle>
+            <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.600000024" cx="227.555556" cy="227.555556" r="227.555556"></circle>
+            <circle id="Oval" fill="url(#linearGradient-1)" opacity="0.600000024" cx="276.31746" cy="235.68254" r="227.555556"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="256" cy="256" r="190.984127"></circle>
+            <g id="Group-13" transform="translate(133.417989, 130.031746)" fill="url(#linearGradient-1)">
+                <g id="Group-8" transform="translate(-0.000000, 0.000000)">
+                    <path d="M276.824987,81.4460554 L282.660382,150.414578 C283.126004,155.917763 279.042252,160.756436 273.539068,161.222058 C272.748979,161.288907 271.953744,161.26155 271.170118,161.140562 L17.2254663,121.932883 C16.40674,121.806476 15.8455042,121.040294 15.9719111,120.221567 C16.0690011,119.592724 16.5522756,119.093562 17.1776505,118.976188 L265.015951,72.4607454 C270.444023,71.4419798 275.670217,75.0164284 276.688983,80.4445 C276.751171,80.7758458 276.796564,81.1101245 276.824987,81.4460554 Z" id="Triangle" opacity="0.699999988" transform="translate(159.448420, 117.340715) scale(-1, 1) rotate(45.000000) translate(-159.448420, -117.340715) "></path>
+                    <path d="M141.882577,67.3087526 L148.610469,215.270148 C148.68573,216.925292 147.404981,218.328062 145.749837,218.403323 C145.56046,218.411934 145.370694,218.402575 145.183083,218.375373 L33.8512207,202.232849 C33.3046515,202.153599 32.9258141,201.646273 33.0050637,201.099703 C33.0305509,200.923923 33.1023967,200.758103 33.2132134,200.619294 L140.102107,66.7302728 C140.44668,66.2986615 141.075901,66.2281024 141.507512,66.5726748 C141.732776,66.7525119 141.869483,67.0208051 141.882577,67.3087526 Z" id="Triangle" transform="translate(92.128284, 144.648881) scale(-1, 1) rotate(45.000000) translate(-92.128284, -144.648881) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
